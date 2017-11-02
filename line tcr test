@@ -2230,9 +2230,8 @@ def bot(op):
                 kk.sendText(msg.to,"Tidur lah,")
                 ki.sendText(msg.to,"ih.. Dasar Jones 􀜁􀅔Har Har􏿿")
             elif msg.text in ["Sayang"]:
-                cl.sendText(msg.to,"iya say?")
                 kk.sendText(msg.to,"Situ kan jomlo")
-                ki.sendText(msg.to,"􀜁􀅔Har Har􏿿")
+                ki.sendText(msg.to,"Sayang.. sayang... pala lu peang 􀜁􀅔Har Har􏿿")
             elif msg.text in ["Bobo ah","Bobo dulu ah"]:
                 cl.sendText(msg.to,"Have a nice dream :)")
                 kk.sendText(msg.to,"Byee~")
